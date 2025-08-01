@@ -1,5 +1,5 @@
 /*Calculate simple interest for a set of values representing principal,
-number of years & rate of interest*/
+number of years & rate of interest*/ 
 #include<stdio.h>
 
 int main()
