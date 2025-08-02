@@ -1,7 +1,7 @@
 // Write a C program to find whether the character entered by the user is lowercase or uppercase.
 #include<stdio.h>
 
-int main()
+int main() 
 
 {
     char ch;
